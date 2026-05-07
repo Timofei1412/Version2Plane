@@ -1,0 +1,19 @@
+# --- SolidWorks Temporary & Lock Files ---
+~$*
+*.sldwrk
+*.sldtmp
+*.bak
+*.tmp
+*.log
+*.zip
+
+# --- Windows System Files ---
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# --- SolidWorks Specific Cache (Optional but recommended) ---
+# If you use SolidWorks Visualize or other add-ons
+*.glb
+*.gltf
